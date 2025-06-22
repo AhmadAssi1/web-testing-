@@ -11,8 +11,8 @@ This project contains an automated test for an e-commerce website, built using P
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git web-testing-.git
+    cd web-testing-.git
     ```
 
 2.  **Install project dependencies:**
